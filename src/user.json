@@ -1,0 +1,52 @@
+[
+ 
+    {
+        "id" : 1,
+        "email" : "annisaoctaviana.ns@gmail.com",
+        "nama" : "Annisa Octaviana Nurshanty",
+        "Posisi" : "Staff",
+        "Departemen" : "IT",
+        "password" : "asdasd"
+    },
+    {
+        "id" : 2,
+        "email" : "marcel@gmail.com",
+        "nama" : "Marcel Ramos",
+        "Posisi" : "Staff",
+        "Departemen" : "Accounting",
+        "password" : "asdasd"
+    },
+    {
+        "id" : 3,
+        "email" : "Anna@gmail.com",
+        "nama" : "Anna Mari",
+        "Posisi" : "Staff",
+        "Departemen" : "Treasury",
+        "password" : "asdasd"
+    },
+    {
+        "id" : 4,
+        "email" : "adit@gmail.com",
+        "nama" : "Aditya Rahman",
+        "Posisi" : "Supervisor",
+        "Departemen" : "IT",
+        "password" : "asdasd"
+    },
+    {
+        "id" : 5,
+        "email" : "daffa@gmail.com",
+        "nama" : "Ahmad Daffa",
+        "Posisi" : "Staff",
+        "Departemen" : "IT",
+        "password" : "asdasd"
+    },
+    {
+        "id" : 6,
+        "email" : "test@gmail.com",
+        "nama" : "Test",
+        "Posisi" : "Staff",
+        "Departemen" : "IT",
+        "password" : "asdasd"
+    }
+    
+]
